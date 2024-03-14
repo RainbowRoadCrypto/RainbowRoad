@@ -72,6 +72,9 @@ library
                       RainbowBitcoin.BitcoinIntegration
                       RainbowBitcoin.Merkle
                       RainbowBitcoin.Network
+                      RainbowBitcoin.Token
+                      RainbowBitcoin.TokenLocking
+                      RainbowBitcoin.Staking
                       Visualize.VisualAid
                       Wiring.Plonky2Integration
                       Zkp.ZkRecursiveSubgraphHashCircuit

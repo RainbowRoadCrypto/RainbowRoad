@@ -1,6 +1,7 @@
 # RainbowRoad
 
 # WIP (Not Fully Tested Or Operational)
+## Note: ** Modules DO compile ** (only a Few Weeks worth of work here)
 
 RainbowRoad is a Haskell-based project that provides a comprehensive suite of tools and libraries for encoding, processing, and visualizing code using a unique color-based representation called "Rainbow Code". It leverages advanced techniques such as zero-knowledge proofs (ZKP) and PLONK for secure and efficient code processing.
 
@@ -72,7 +73,7 @@ For more detailed usage instructions and additional commands, refer to the [User
 
 ## Contributing
 
-Contributions to RainbowRoad are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/your-username/RainbowRoad/issues).
+Contributions to RainbowRoad are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/RainbowRoadCrypto/RainbowRoad/issues).
 
 To contribute code changes, follow these steps:
 
