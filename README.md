@@ -87,15 +87,3 @@ Please adhere to the [Contribution Guidelines](CONTRIBUTING.md) when contributin
 ## License
 
 RainbowRoad is released under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-RainbowRoad builds upon the work of various open-source projects and research papers. We would like to acknowledge their contributions:
-
-- [PLONK](https://eprint.iacr.org/2019/953)
-- [Haskell](https://www.haskell.org/)
-- [Megaparsec](https://hackage.haskell.org/package/megaparsec)
-- [Servant](https://hackage.haskell.org/package/servant)
-
-
-
